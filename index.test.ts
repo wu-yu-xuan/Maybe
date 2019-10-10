@@ -1,4 +1,4 @@
-import Maybe from './Maybe';
+import { Maybe } from '.';
 
 it('maybe works well', () => {
   const maybe = Maybe(1);
